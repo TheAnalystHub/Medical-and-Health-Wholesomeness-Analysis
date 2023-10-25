@@ -114,7 +114,7 @@ DIABETIC CONDITION    | DIABETIC CONDITION
 :--------------------:|:-----------------:
 ![](Diabetes.png)      | ![](diabetes1.png) 
 
-The analysis shows the number of students with health issues relating to Diabetes
+The analysis above shows the number of students with health issues relating to Diabetes
 
 
 # CONCLUSION
